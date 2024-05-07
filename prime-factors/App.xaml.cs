@@ -26,7 +26,7 @@ namespace prime_factors
         {
             switch (algorithmName)
             {
-                case "By Division":
+                case "Factorisation By Division":
                     return new PrimeFactorisationByDivision();
 
                 default:
